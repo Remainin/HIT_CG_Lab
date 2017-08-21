@@ -1,0 +1,36 @@
+﻿生成启动时间为 2017/6/19 22:14:03。
+     1>项目“D:\vsfile\GraphLab1\GraphLab1\GraphLab1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\GraphLab1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\GraphLab1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GraphLab1.cpp GraphLab1Doc.cpp GraphLab1View.cpp MainFrm.cpp
+         GraphLab1View.cpp
+     1>d:\vsfile\graphlab1\graphlab1\graphlab1view.cpp(143): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vsfile\graphlab1\graphlab1\graphlab1view.cpp(144): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vsfile\graphlab1\graphlab1\graphlab1view.cpp(697): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vsfile\graphlab1\graphlab1\graphlab1view.cpp(698): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vsfile\graphlab1\graphlab1\graphlab1view.cpp(704): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vsfile\graphlab1\graphlab1\graphlab1view.cpp(705): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vsfile\graphlab1\graphlab1\graphlab1view.cpp(760): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vsfile\graphlab1\graphlab1\graphlab1view.cpp(761): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vsfile\graphlab1\graphlab1\graphlab1view.cpp(788): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         MainFrm.cpp
+         GraphLab1Doc.cpp
+         GraphLab1.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\vsfile\GraphLab1\Debug\GraphLab1.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\GraphLab1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\vsfile\GraphLab1\Debug\GraphLab1.pdb" /SUBSYSTEM:WINDOWS /STACK:"100000000" /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\vsfile\GraphLab1\Debug\GraphLab1.lib" /MACHINE:X86 Debug\GraphLab1.res
+         Debug\GraphLab1.obj
+         Debug\GraphLab1Doc.obj
+         Debug\GraphLab1View.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         GraphLab1.vcxproj -> D:\vsfile\GraphLab1\Debug\GraphLab1.exe
+       Manifest:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\mt.exe /nologo /verbose /out:"D:\vsfile\GraphLab1\Debug\GraphLab1.exe.manifest" /manifest Debug\GraphLab1.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest"
+     1>已完成生成项目“D:\vsfile\GraphLab1\GraphLab1\GraphLab1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.56
